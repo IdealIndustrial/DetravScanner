@@ -1,0 +1,41 @@
+detrav.scanner.mode.0=Режим: Руды
+detrav.scanner.mode.1=Режим: Руды и малые руды
+detrav.scanner.mode.2=Режим: Подземные жидкости
+detrav.scanner.mode.3=Режим: Загрязнение
+detrav.scanner.mode.error=Режим: ОШИБКА
+
+detrav.scanner.distance.texts.0= вплотную к вам,
+detrav.scanner.distance.texts.1= близко к вам,
+detrav.scanner.distance.texts.2= на среднем расстоянии,
+detrav.scanner.distance.texts.3= на большом расстоянии,
+detrav.scanner.distance.texts.4= очень далеко,
+
+detrav.scanner.small_ore.keyword=Малая
+
+detrav.scanner.found.texts.0=Не обнаружено ничего интересного
+detrav.scanner.found.texts.1= следы.
+detrav.scanner.found.texts.2= малая проба.
+detrav.scanner.found.texts.3= средняя проба.
+detrav.scanner.found.texts.4= большая проба.
+detrav.scanner.found.texts.5= очень большая проба.
+detrav.scanner.found.texts.6=Обнаружена
+
+# Don't translate "%badluck"
+detrav.scanner.success=Все чанки успешно просканированы!
+detrav.scanner.fail=Сбой на %badluck чанках. В следующий раз вам повезёт больше!
+
+detrav.scanner.prospecting=Разведка по координатам
+
+tooltip.detrav.scanner.durability=Прочность:
+tooltip.detrav.scanner.range=Чанки:
+tooltip.detrav.scanner.usage.0=ПКМ по камню для разведки в этом чанке!
+tooltip.detrav.scanner.usage.1=ПКМ по коренной породе для разведки жидкостей!
+tooltip.detrav.scanner.usage.2=ПКМ для сканирования!
+tooltip.detrav.scanner.usage.3=Дважды щёлкните по любой записи, чтобы изменить цвет фона!
+tooltip.detrav.scanner.success.chance=Шансы на успешное сканирование:
+tooltip.detrav.scanner.distance.0=Вплотную к вам (расстояние в 0 чанков), близко к вам (1-2)
+tooltip.detrav.scanner.distance.1=на среднем расстоянии (3-5), на большом расстоянии (6-8), очень далеко (9+)
+tooltup.detrav.scanner.quantum=Для сканирования области требуется полный комплект квантовой брони 
+
+gui.detrav.scanner.pollution=Загрязнение
+gui.detrav.scanner.unknown_fluid=Неизвестная жидкость!
